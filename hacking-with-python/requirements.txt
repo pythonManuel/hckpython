@@ -1,0 +1,12 @@
+dnspython
+google-search
+netaddr
+paramiko
+PILLOW
+pprintpp
+PyPDF2
+pygeoip
+scapy
+shodan
+termcolor
+python-whois
