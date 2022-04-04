@@ -1,0 +1,49 @@
+{
+    "https://www.granlogia.cl/": [
+        {
+            "app": "Apache",
+            "ver": "2.4.25",
+            "type": "Web Servers"
+        },
+        {
+            "app": "Debian",
+            "ver": null,
+            "type": "Operating Systems"
+        },
+        {
+            "app": "Joomla",
+            "ver": null,
+            "type": "CMS"
+        },
+        {
+            "app": "jQuery",
+            "ver": null,
+            "type": "JavaScript Libraries"
+        },
+        {
+            "app": "jQuery Migrate",
+            "ver": "\\2",
+            "type": "JavaScript Libraries"
+        },
+        {
+            "app": "Bootstrap",
+            "ver": null,
+            "type": "UI Frameworks"
+        },
+        {
+            "app": "Font Awesome",
+            "ver": null,
+            "type": "Font Scripts"
+        },
+        {
+            "app": "animate.css",
+            "ver": null,
+            "type": "UI Frameworks"
+        },
+        {
+            "app": "PHP",
+            "ver": null,
+            "type": "Programming Languages"
+        }
+    ]
+}
