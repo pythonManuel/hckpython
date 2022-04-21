@@ -1,0 +1,46 @@
+<html>
+    <head>
+        <body>
+            <script>
+              var numero1 = parseInt(prompt("Ingrese el primer numero"))
+              var numero2 = parseInt(prompt("Ingrese el segundo numero"))
+            
+            if (isNaN(numero1) && isNaN(numero2)){
+                alert("Solo se puede ingresar numero")
+
+            }else {
+                alert("[1] suma - [2] resta - [3] multiplicacion [4] - division [#] exit")
+                modo = parseInt(prompt("Ingrese el modo"))
+                switch(modo){
+                    case 1:
+                        suma = numero1 + numero2
+                        alert("la respuesta es " + suma)
+                        break;
+                    case 2:
+                        resta = numero1 - numero2
+                        alert("la respues es " + resta)
+                        break;
+                    case 3:
+                        multiplicacion = numero1 * numero2
+                        alert("la respuesta es " + multiplicacion)
+                        break;
+                    case 4:
+                        division = numero1 / numero2
+                        alert("la respuesta es "+ division)
+                        break;
+                        default:
+                            alert("fin del programa")
+                            break;
+
+
+                }
+            }
+            
+            
+            
+            
+            
+            </script>
+        </body>
+    </head>
+</html>
